@@ -1,0 +1,39 @@
+name: Source review
+description: Request review for adding a news source
+title: "Source review: "
+labels: ["source-review"]
+body:
+  - type: input
+    id: source_name
+    attributes:
+      label: Source name
+      description: Name of the publisher or metadata source.
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: Official homepage or API/RSS documentation URL.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_use
+    attributes:
+      label: Proposed use
+      description: Explain whether this will use API, RSS, metadata, or manual links.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety checklist
+      options:
+        - label: We will not store full article text.
+          required: true
+        - label: We will not provide full translations.
+          required: true
+        - label: We will not store or rehost images.
+          required: true
+        - label: We will link to the original publisher.
+          required: true

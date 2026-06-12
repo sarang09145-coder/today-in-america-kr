@@ -1,0 +1,159 @@
+[
+  {
+    "id": "article_001",
+    "sourceName": "Example National Desk",
+    "sourceUrl": "https://example.com",
+    "originalUrl": "https://example.com/us/politics/budget-talks",
+    "publishedAt": "2026-06-12T09:30:00-04:00",
+    "region": "United States",
+    "stateCode": "US",
+    "categoryId": "politics",
+    "topicTags": [
+      "의회",
+      "예산안",
+      "연방정부"
+    ],
+    "displayTitleKo": "워싱턴에서 예산안을 둘러싼 협상이 이어지고 있습니다",
+    "briefKo": "여러 미국 매체는 연방 예산안을 둘러싼 협상과 정치권의 반응을 주요 이슈로 다뤘습니다. 자세한 쟁점과 발언은 원문 기사에서 확인할 수 있습니다.",
+    "sensitivity": "normal",
+    "storyClusterId": "cluster_budget_talks",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_002",
+    "sourceName": "Example Business Journal",
+    "sourceUrl": "https://example.org",
+    "originalUrl": "https://example.org/markets/tech-earnings-watch",
+    "publishedAt": "2026-06-12T08:10:00-04:00",
+    "region": "United States",
+    "stateCode": "US",
+    "categoryId": "economy",
+    "topicTags": [
+      "증시",
+      "기술주",
+      "실적"
+    ],
+    "displayTitleKo": "월가에서는 기술주 실적 발표를 앞두고 관심이 커지고 있습니다",
+    "briefKo": "경제 매체들은 주요 기술기업 실적 발표를 앞두고 투자자들이 매출 전망과 비용 관리 흐름을 주시하고 있다고 전했습니다. 자세한 수치와 전망은 원문에서 확인하세요.",
+    "sensitivity": "normal",
+    "storyClusterId": "cluster_tech_earnings",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_003",
+    "sourceName": "Example California Local",
+    "sourceUrl": "https://california.example.net",
+    "originalUrl": "https://california.example.net/weather/wildfire-prep",
+    "publishedAt": "2026-06-12T07:45:00-07:00",
+    "region": "California",
+    "stateCode": "CA",
+    "categoryId": "weather_disaster",
+    "topicTags": [
+      "산불",
+      "대피 준비",
+      "날씨"
+    ],
+    "displayTitleKo": "캘리포니아 일부 지역에서 산불 대비 안내가 강화됐습니다",
+    "briefKo": "지역 매체들은 건조한 날씨와 강풍 가능성으로 일부 지역에서 산불 대비 안내가 강화됐다고 보도했습니다. 최신 대피 정보는 원문과 현지 당국 안내를 확인하세요.",
+    "sensitivity": "sensitive",
+    "storyClusterId": "cluster_california_wildfire",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_004",
+    "sourceName": "Example Georgia Community News",
+    "sourceUrl": "https://georgia-community.example.com",
+    "originalUrl": "https://georgia-community.example.com/community/memorial-event",
+    "publishedAt": "2026-06-12T11:20:00-04:00",
+    "region": "Georgia",
+    "stateCode": "GA",
+    "categoryId": "korean_asian_community",
+    "topicTags": [
+      "한인사회",
+      "지역사회",
+      "추모"
+    ],
+    "displayTitleKo": "조지아 지역사회 관련 보도가 이어지고 있습니다",
+    "briefKo": "현지 매체들은 조지아주 한 지역사회에서 열린 추모 행사와 커뮤니티 반응을 보도했습니다. 자세한 내용과 최신 상황은 원문 기사에서 확인할 수 있습니다.",
+    "sensitivity": "sensitive",
+    "storyClusterId": "cluster_georgia_community",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_005",
+    "sourceName": "Example New York Arts",
+    "sourceUrl": "https://nyarts.example.com",
+    "originalUrl": "https://nyarts.example.com/entertainment/summer-film-festival",
+    "publishedAt": "2026-06-12T12:05:00-04:00",
+    "region": "New York",
+    "stateCode": "NY",
+    "categoryId": "entertainment",
+    "topicTags": [
+      "영화제",
+      "뉴욕",
+      "문화"
+    ],
+    "displayTitleKo": "뉴욕의 여름 영화 행사에 대한 관심이 높아지고 있습니다",
+    "briefKo": "뉴욕 지역 문화 매체들은 여름 영화 행사와 관련 프로그램을 소개했습니다. 상영 일정과 참여 방법은 원문 기사에서 확인할 수 있습니다.",
+    "sensitivity": "normal",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_006",
+    "sourceName": "Example Florida Local",
+    "sourceUrl": "https://florida.example.com",
+    "originalUrl": "https://florida.example.com/local/gator-parking-lot",
+    "publishedAt": "2026-06-12T10:15:00-04:00",
+    "region": "Florida",
+    "stateCode": "FL",
+    "categoryId": "weird_animals",
+    "topicTags": [
+      "동물",
+      "황당뉴스",
+      "지역화제"
+    ],
+    "displayTitleKo": "플로리다 지역 뉴스에 뜻밖의 동물 소동이 등장했습니다",
+    "briefKo": "지역 매체들은 한 상업 시설 주변에서 벌어진 동물 관련 소동을 가벼운 화제성 뉴스로 전했습니다. 자세한 현장 상황은 원문 기사에서 확인하세요.",
+    "sensitivity": "normal",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_007",
+    "sourceName": "Example Texas Tribune",
+    "sourceUrl": "https://texas.example.org",
+    "originalUrl": "https://texas.example.org/local/school-safety-meeting",
+    "publishedAt": "2026-06-12T09:05:00-05:00",
+    "region": "Texas",
+    "stateCode": "TX",
+    "categoryId": "local",
+    "topicTags": [
+      "학교",
+      "지역회의",
+      "공공안전"
+    ],
+    "displayTitleKo": "텍사스 지역 학교 안전 회의가 지역 뉴스로 다뤄졌습니다",
+    "briefKo": "텍사스 지역 매체들은 학교 안전과 관련된 지역 회의와 학부모 반응을 보도했습니다. 구체적인 결정 사항은 원문 기사와 학교 당국 안내를 확인하세요.",
+    "sensitivity": "sensitive",
+    "sourceAccess": "manual_seed"
+  },
+  {
+    "id": "article_008",
+    "sourceName": "Example Tech Wire",
+    "sourceUrl": "https://techwire.example.dev",
+    "originalUrl": "https://techwire.example.dev/ai/chip-startup-funding",
+    "publishedAt": "2026-06-12T06:50:00-07:00",
+    "region": "California",
+    "stateCode": "CA",
+    "categoryId": "tech_business",
+    "topicTags": [
+      "AI",
+      "반도체",
+      "스타트업"
+    ],
+    "displayTitleKo": "캘리포니아 기술업계에서는 AI 반도체 스타트업 소식이 주목받고 있습니다",
+    "briefKo": "기술 매체들은 AI 반도체 분야 스타트업의 투자 유치와 시장 경쟁 흐름을 다뤘습니다. 자세한 투자 조건과 기업 설명은 원문 기사에서 확인하세요.",
+    "sensitivity": "normal",
+    "storyClusterId": "cluster_ai_chip_startup",
+    "sourceAccess": "manual_seed"
+  }
+]

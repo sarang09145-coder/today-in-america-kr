@@ -1,0 +1,75 @@
+[
+  {
+    "id": "cluster_budget_talks",
+    "titleKo": "연방 예산안을 둘러싼 워싱턴 협상",
+    "region": "US",
+    "categoryId": "politics",
+    "summaryKo": "미국 정치권에서는 예산안 협상과 정부 운영을 둘러싼 논의가 이어지고 있습니다. 여러 매체가 의회 협상, 정당별 입장, 행정부 반응을 각각 다른 초점으로 다뤘습니다.",
+    "articleIds": [
+      "article_001"
+    ],
+    "angleNotes": [
+      {
+        "sourceName": "Example National Desk",
+        "focusKo": "의회 협상과 정치권 반응"
+      }
+    ],
+    "sensitivity": "normal"
+  },
+  {
+    "id": "cluster_tech_earnings",
+    "titleKo": "기술주 실적 발표를 앞둔 월가의 관심",
+    "region": "US",
+    "categoryId": "economy",
+    "summaryKo": "경제 매체들은 주요 기술기업 실적 발표를 앞두고 투자자들이 성장률, 비용 관리, AI 투자 흐름을 주시하고 있다고 소개했습니다.",
+    "articleIds": [
+      "article_002",
+      "article_008"
+    ],
+    "angleNotes": [
+      {
+        "sourceName": "Example Business Journal",
+        "focusKo": "시장 전망과 투자자 반응"
+      },
+      {
+        "sourceName": "Example Tech Wire",
+        "focusKo": "AI와 반도체 산업 흐름"
+      }
+    ],
+    "sensitivity": "normal"
+  },
+  {
+    "id": "cluster_california_wildfire",
+    "titleKo": "캘리포니아 산불 대비와 지역 안전 안내",
+    "region": "CA",
+    "categoryId": "weather_disaster",
+    "summaryKo": "캘리포니아 지역 매체들은 건조한 날씨와 강풍 가능성으로 일부 지역에서 산불 대비 안내가 강화됐다고 전했습니다. 최신 정보는 현지 당국과 원문 보도를 함께 확인하는 것이 좋습니다.",
+    "articleIds": [
+      "article_003"
+    ],
+    "angleNotes": [
+      {
+        "sourceName": "Example California Local",
+        "focusKo": "대피 준비와 지역 안전 안내"
+      }
+    ],
+    "sensitivity": "sensitive"
+  },
+  {
+    "id": "cluster_georgia_community",
+    "titleKo": "조지아 지역 커뮤니티 관련 보도",
+    "region": "GA",
+    "categoryId": "korean_asian_community",
+    "summaryKo": "조지아 지역 매체들은 지역사회 행사와 커뮤니티 반응을 보도했습니다. 민감한 사안일 수 있으므로 자세한 사실관계는 원문과 공식 발표를 확인해야 합니다.",
+    "articleIds": [
+      "article_004"
+    ],
+    "angleNotes": [
+      {
+        "sourceName": "Example Georgia Community News",
+        "focusKo": "지역사회 반응과 추모 분위기"
+      }
+    ],
+    "sensitivity": "sensitive"
+  }
+]
